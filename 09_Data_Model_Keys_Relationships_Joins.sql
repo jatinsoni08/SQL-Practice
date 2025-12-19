@@ -207,6 +207,7 @@ One-to-Many
 One country → Many languages
 */
 
+/*
 ========================================================
 7. INTERVIEW / VIVA QUICK ANSWERS
 ========================================================
@@ -222,4 +223,5 @@ A: One-to-Many relationship.
 
 Q: Example of Primary Key in world DB?
 A: country.code, city.id
+*/
 
