@@ -2,11 +2,11 @@
 
 This repository contains my structured SQL practice from basics to advanced concepts.
 Each SQL file is organized topic-wise and includes notes, key points,
-and question–answer based queries for better understanding and revision.
+and question–answer based queries for clear understanding and revision.
 
 ## Databases Used
-- WORLD
-- SAKILA
+- WORLD (sample database)
+- SAKILA (sample database)
 - REGEX (custom practice database)
 
 ## Topics Covered
@@ -22,6 +22,8 @@ and question–answer based queries for better understanding and revision.
 - Table Relationships
 - JOIN operations (INNER, LEFT, RIGHT)
 - GROUP BY with JOIN
+- Self JOIN (Employee–Manager hierarchy)
+- Hierarchical data handling
 - Real-world practice using Customers & Orders tables
 - Sakila database practice (Actor & Films)
 
@@ -33,5 +35,4 @@ and question–answer based queries for better understanding and revision.
   - Practice questions
   - SQL query answers
 
-📌 This repository is updated regularly as part of my daily SQL learning and practice.
-
+📌 This repository is updated regularly as part of my SQL learning and practice journey.
