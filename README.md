@@ -24,6 +24,7 @@ through consistent hands-on practice and real-world examples.
 - String functions
 - Aggregate functions (COUNT, SUM, AVG, MIN, MAX)
 - GROUP BY & HAVING
+- CASE expression (conditional logic in SQL)
 - Data Models (Conceptual, Logical, Physical)
 - Primary Key & Foreign Key
 - Table Relationships
